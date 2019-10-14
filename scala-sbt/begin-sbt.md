@@ -1,4 +1,4 @@
-# SBT for Scala development
+# SBT for Scala development https://blog.miniasp.com/post/2010/08/27/Linux-find-command-tips-and-notice
 
 ## Basic SBT concepts
 
